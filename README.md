@@ -11,3 +11,6 @@ I also tried wood panels, I like them. But it takes a more efford to print on. I
 The front panel is a single layer "circuit" on aluminium with white soldermask. The jacks and switches have a space around without soldermask, so the panel is grounded.
 
 I made the text really small, because I think it is less usefull after a while. It is more like a manual.
+
+## The Animal Illustration
+Instead of asking AI to "generate" me a representation that is not a robot, I picked the nicest donkey from the "Lets Draw It" website https://letsdraw.it/
