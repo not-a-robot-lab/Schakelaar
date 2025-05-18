@@ -5,6 +5,9 @@ Voltage Controlled 3 position switch Eurorack module.
 position input's normal is a counter that can by clocked by an input or the push button and has a reset input.
 position input has a mult so you can send it to another switch or other modules.
 
+## chip
+Make sure to use 20v CD4052 version like TI chips, because some other variants only accept maximum of 15 volts. Better not to buy the chips from aliexpress or eBay because often they mix up all the different types, like they are the same. TI CD4052BM96
+
 ## Aluminium front panel
 The reason I choose aluminium as material for the front panel is because it is recyclable. PCB (FR-4) material is not recyclable.
 I also tried wood panels, I like them. But it takes a more efford to print on. I will also try Acrylic one day, just to try. It is better then FR-4 but I think less well for the environment as Aluminium.
